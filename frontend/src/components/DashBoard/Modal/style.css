@@ -1,0 +1,29 @@
+textf::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+::-webkit-scrollbar {
+    display: none;
+}
+dialog{
+  animation-name: dialog-appear;
+  animation-duration: 0.8s;
+  animation-timing-function: ease-in;
+  animation-fill-mode: forwards;
+}
+@keyframes dialog-appear{
+  from{
+    opacity: 0;
+    transform:translateY(-20px)
+  }
+  to{
+    opacity: 1;
+    transform:translateY(0)
+  }
+}

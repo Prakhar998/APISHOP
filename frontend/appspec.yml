@@ -1,0 +1,20 @@
+# This is an appspec.yml template file for use with an EC2/On-Premises deployment in CodeDeploy.
+
+version: 0.0
+os: windows
+
+files:
+  - source: \
+    destination: C:\Users\Administrator\Desktop\apispocc_react_ecommerce
+
+
+hooks:
+  ApplicationStop:
+    - location: \scripts\app_stop.ps1
+      timeout: 300
+  BeforeInstall:
+    - location: \scripts\before_install.ps1
+      timeout: 300
+  AfterInstall:
+    - location: \scripts\after_install.ps1
+      timeout: 300

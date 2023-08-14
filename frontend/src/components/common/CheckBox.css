@@ -1,0 +1,13 @@
+.checkbox-parent{
+        height:18px;
+        width:18px;
+        margin-right:4px;
+        border:1px solid grey;
+}
+.done-icon{
+    color:white;
+    margin-left:-4px;
+    margin-bottom:2px;
+    height:18px;
+    transform:rotate(360deg);
+}

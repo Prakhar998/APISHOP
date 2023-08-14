@@ -1,0 +1,28 @@
+version: "3"
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        - NODE_ENV=prod
+    ports:
+      - "9005:9005"
+    command: npm run dev:prod
+    networks:
+      - api-network
+
+  api-dev:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        - NODE_ENV=dev
+    ports:
+      - "9006:9005"
+    command: npm run dev
+    networks:
+      - api-network
+
+networks:
+  api-network:

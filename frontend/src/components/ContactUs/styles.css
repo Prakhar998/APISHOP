@@ -1,0 +1,25 @@
+.contact-details h5{
+    color:#00bcd4;
+    border-bottom:3px solid #00bcd4;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+.contact-details{padding-bottom: 150px;}
+
+.contact-details p{
+    color:#414141;
+    font-size:14px;
+}
+.info-box{
+    display: flex;
+    gap:15px;
+    margin-top: 20px;
+}
+.info-box svg{
+    color:#ffffff;
+    font-size:40px;
+    padding:5px;
+    background-color: #00bcd4;
+}

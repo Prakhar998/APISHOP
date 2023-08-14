@@ -1,0 +1,40 @@
+.popularBrandsArea{
+    background-color: #f7f7f7;
+    padding:100px 0;
+  }
+  .popularSectionHeading{ 
+    margin-bottom: 50px;
+    text-align: center;
+  }
+  .popularBrandsSlide {
+    display: flex;
+    text-align: center;
+  }
+  .popularBrandsSlide > {
+    flex: 0 0 auto;
+    min-width: 100%;
+    margin-right: 10px;
+  }
+  .singleBrands {
+    text-align: center,
+  }
+
+  .singleBrands img {
+    max-width: 100%;
+      width: 35%;
+      height: auto;
+  }
+
+  .about_us_content{margin-top: 30px;}
+  .about_us_content h5{
+    line-height: 35px;
+    text-align: justify;
+  }
+
+  .about_us_content p{
+    line-height: 2;
+    color:#414141;
+    text-align: justify;
+  }
+
+  .about_us_content h5 span{color:#00bcd4}

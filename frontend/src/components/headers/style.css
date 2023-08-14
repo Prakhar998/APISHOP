@@ -1,0 +1,80 @@
+.logo_area > a {
+  border: 2px solid #19B5FE;
+  color: #19B5FE;
+  display: inline-block;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 1;
+  padding: 10px;
+  text-decoration: none;
+  margin-left: 30px;
+}
+
+.main_header_area {
+height: 80px;
+width: 100%;
+background-color: #fff;
+-webkit-transition-duration: 500ms;
+transition-duration: 500ms;
+}
+.header-btn{
+background-color: #00bcd4;
+border-radius: 45px;
+color: #fff;
+font-size: 15px;
+padding: 0 30px;
+text-transform: uppercase;
+letter-spacing: 1px;
+font-weight: 400;
+min-width: 100px;
+height: 54px;
+line-height: 52px;
+margin-left: 950px;
+}
+
+.searchbar
+{
+height:30px;
+font-size:14pt;
+width: 48vw;
+border-block-end-color: cadetblue;
+border-width: 1px;
+height: 45px;
+padding-left: 10px;
+/* border-right: none; */
+}
+input::placeholder {
+color:'grey';
+font-size: small;
+padding-left: '8px';
+}
+
+.app-logo{
+text-decoration: none;
+color: #fff;
+font-size: 20px;
+font-weight: 700;
+border: 2px solid #fff;
+padding: 10px;
+line-height: 1;
+}
+
+.drawer-menu span{
+  font-size:0.875rem !important;
+}
+
+.drawer-menu-icon{
+  color:#fff;
+}
+
+@media (max-width:899px) {
+  .app-logo{
+    margin-right: 0 !important;
+  }
+}
+
+@media (max-width:599px) {
+  .custom-toolbar{
+    min-height:64px !important;
+  }
+}

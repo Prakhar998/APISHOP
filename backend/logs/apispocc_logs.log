@@ -1,0 +1,80 @@
+{"level":"info","message":"✨ Server is running on port 5005","metadata":{},"timestamp":"2023-06-08T06:22:51.327Z"}
+{"level":"info","message":"🎉 MongoDB Connected  => dev_ecommerce","metadata":{},"timestamp":"2023-06-08T06:22:52.421Z"}
+{"level":"info","message":"Connection with SMTP server ...","metadata":{},"timestamp":"2023-06-08T06:22:52.423Z"}
+{"level":"info","message":"SMTP Server Connected","metadata":{},"timestamp":"2023-06-08T06:22:53.110Z"}
+{"level":"info","message":"SMTP Connection verified","metadata":{},"timestamp":"2023-06-08T06:22:53.111Z"}
+{"level":"info","message":"undefined - Mail sent successfully!!","metadata":{},"timestamp":"2023-06-08T06:25:10.599Z"}
+{"level":"info","message":"undefined - [MailResponse]=250 Accepted [STATUS=new MSGID=ZIFzvebNgn9Nq8zkZIF0RjUm7WJPZF.BAAAAAUXDDCLoEs1ei8UKiWCP4OY] [MessageID]=<a06c4fc8-6d12-d569-8778-4344de81ba9f@localhost>","metadata":{},"timestamp":"2023-06-08T06:25:10.600Z"}
+{"level":"info","message":"✨ Server is running on port 5005","metadata":{},"timestamp":"2023-06-08T06:31:10.239Z"}
+{"level":"info","message":"✨ Server is running on port 5005","metadata":{},"timestamp":"2023-06-08T06:34:01.052Z"}
+{"level":"info","message":"🎉 MongoDB Connected  => ecommerce","metadata":{},"timestamp":"2023-06-08T06:34:02.104Z"}
+{"level":"info","message":"Connection with SMTP server ...","metadata":{},"timestamp":"2023-06-08T06:34:02.106Z"}
+{"level":"info","message":"SMTP Server Connected","metadata":{},"timestamp":"2023-06-08T06:34:02.769Z"}
+{"level":"info","message":"SMTP Connection verified","metadata":{},"timestamp":"2023-06-08T06:34:02.770Z"}
+{"level":"info","message":"✨ Server is running on port 5005","metadata":{},"timestamp":"2023-06-12T06:30:26.099Z"}
+{"level":"info","message":"🎉 MongoDB Connected  => ecommerce","metadata":{},"timestamp":"2023-06-12T06:30:27.119Z"}
+{"level":"info","message":"Connection with SMTP server ...","metadata":{},"timestamp":"2023-06-12T06:30:27.121Z"}
+{"level":"info","message":"SMTP Server Connected","metadata":{},"timestamp":"2023-06-12T06:30:27.799Z"}
+{"level":"info","message":"SMTP Connection verified","metadata":{},"timestamp":"2023-06-12T06:30:27.799Z"}
+{"level":"info","message":"✨ Server is running on port 5005","metadata":{},"timestamp":"2023-06-12T06:46:49.584Z"}
+{"level":"info","message":"🎉 MongoDB Connected  => ecommerce","metadata":{},"timestamp":"2023-06-12T06:46:54.256Z"}
+{"level":"info","message":"Connection with SMTP server ...","metadata":{},"timestamp":"2023-06-12T06:46:54.260Z"}
+{"level":"info","message":"SMTP Server Connected","metadata":{},"timestamp":"2023-06-12T06:46:54.936Z"}
+{"level":"info","message":"SMTP Connection verified","metadata":{},"timestamp":"2023-06-12T06:46:54.937Z"}
+{"level":"info","message":"✨ Server is running on port 5005","metadata":{},"timestamp":"2023-06-14T04:56:13.598Z"}
+{"level":"info","message":"🎉 MongoDB Connected  => ecommerce","metadata":{},"timestamp":"2023-06-14T04:56:14.563Z"}
+{"level":"info","message":"Connection with SMTP server ...","metadata":{},"timestamp":"2023-06-14T04:56:14.565Z"}
+{"level":"info","message":"SMTP Server Connected","metadata":{},"timestamp":"2023-06-14T04:56:15.253Z"}
+{"level":"info","message":"SMTP Connection verified","metadata":{},"timestamp":"2023-06-14T04:56:15.254Z"}
+{"level":"info","message":"✨ Server is running on port 5005","metadata":{},"timestamp":"2023-06-14T07:40:09.029Z"}
+{"level":"info","message":"🎉 MongoDB Connected  => ecommerce","metadata":{},"timestamp":"2023-06-14T07:40:10.323Z"}
+{"level":"info","message":"Connection with SMTP server ...","metadata":{},"timestamp":"2023-06-14T07:40:10.326Z"}
+{"level":"info","message":"SMTP Server Connected","metadata":{},"timestamp":"2023-06-14T07:40:11.194Z"}
+{"level":"info","message":"SMTP Connection verified","metadata":{},"timestamp":"2023-06-14T07:40:11.195Z"}
+{"level":"info","message":"✨ Server is running on port 5005","metadata":{},"timestamp":"2023-06-14T07:40:53.786Z"}
+{"level":"info","message":"🎉 MongoDB Connected  => prod_ecommerce","metadata":{},"timestamp":"2023-06-14T07:40:54.422Z"}
+{"level":"info","message":"Connection with SMTP server ...","metadata":{},"timestamp":"2023-06-14T07:40:54.424Z"}
+{"level":"info","message":"SMTP Server Connected","metadata":{},"timestamp":"2023-06-14T07:40:54.428Z"}
+{"level":"info","message":"SMTP Connection verified","metadata":{},"timestamp":"2023-06-14T07:40:54.429Z"}
+{"level":"info","message":"✨ Server is running on port 5005","metadata":{},"timestamp":"2023-06-14T07:47:15.392Z"}
+{"level":"info","message":"🎉 MongoDB Connected  => prod_ecommerce","metadata":{},"timestamp":"2023-06-14T07:47:16.372Z"}
+{"level":"info","message":"Connection with SMTP server ...","metadata":{},"timestamp":"2023-06-14T07:47:16.373Z"}
+{"level":"info","message":"SMTP Server Connected","metadata":{},"timestamp":"2023-06-14T07:47:16.377Z"}
+{"level":"info","message":"SMTP Connection verified","metadata":{},"timestamp":"2023-06-14T07:47:16.377Z"}
+{"level":"info","message":"✨ Server is running on port 5005","metadata":{},"timestamp":"2023-06-14T07:53:23.000Z"}
+{"level":"info","message":"🎉 MongoDB Connected  => prod_ecommerce","metadata":{},"timestamp":"2023-06-14T07:53:24.007Z"}
+{"level":"info","message":"Connection with SMTP server ...","metadata":{},"timestamp":"2023-06-14T07:53:24.009Z"}
+{"level":"info","message":"SMTP Server Connected","metadata":{},"timestamp":"2023-06-14T07:53:24.015Z"}
+{"level":"info","message":"SMTP Connection verified","metadata":{},"timestamp":"2023-06-14T07:53:24.016Z"}
+{"level":"info","message":"✨ Server is running on port 5005","metadata":{},"timestamp":"2023-06-14T07:57:30.428Z"}
+{"level":"info","message":"🎉 MongoDB Connected  => ecommerce","metadata":{},"timestamp":"2023-06-14T07:57:31.555Z"}
+{"level":"info","message":"Connection with SMTP server ...","metadata":{},"timestamp":"2023-06-14T07:57:31.560Z"}
+{"level":"info","message":"SMTP Server Connected","metadata":{},"timestamp":"2023-06-14T07:57:31.576Z"}
+{"level":"info","message":"SMTP Connection verified","metadata":{},"timestamp":"2023-06-14T07:57:31.577Z"}
+{"level":"info","message":"✨ Server is running on port 5005","metadata":{},"timestamp":"2023-06-14T11:29:54.116Z"}
+{"level":"info","message":"🎉 MongoDB Connected  => ecommerce","metadata":{},"timestamp":"2023-06-14T11:29:55.545Z"}
+{"level":"info","message":"Connection with SMTP server ...","metadata":{},"timestamp":"2023-06-14T11:29:55.548Z"}
+{"level":"info","message":"SMTP Server Connected","metadata":{},"timestamp":"2023-06-14T11:29:55.555Z"}
+{"level":"info","message":"SMTP Connection verified","metadata":{},"timestamp":"2023-06-14T11:29:55.557Z"}
+{"level":"info","message":"✨ Server is running on port 5005","metadata":{},"timestamp":"2023-06-15T04:43:56.580Z"}
+{"level":"info","message":"🎉 MongoDB Connected  => ecommerce","metadata":{},"timestamp":"2023-06-15T04:43:57.688Z"}
+{"level":"info","message":"Connection with SMTP server ...","metadata":{},"timestamp":"2023-06-15T04:43:57.689Z"}
+{"level":"info","message":"SMTP Server Connected","metadata":{},"timestamp":"2023-06-15T04:43:57.696Z"}
+{"level":"info","message":"SMTP Connection verified","metadata":{},"timestamp":"2023-06-15T04:43:57.697Z"}
+{"level":"info","message":"✨ Server is running on port 5005","metadata":{},"timestamp":"2023-06-19T04:23:12.774Z"}
+{"level":"info","message":"🎉 MongoDB Connected  => ecommerce","metadata":{},"timestamp":"2023-06-19T04:23:13.970Z"}
+{"level":"info","message":"Connection with SMTP server ...","metadata":{},"timestamp":"2023-06-19T04:23:13.973Z"}
+{"level":"info","message":"SMTP Server Connected","metadata":{},"timestamp":"2023-06-19T04:23:13.979Z"}
+{"level":"info","message":"SMTP Connection verified","metadata":{},"timestamp":"2023-06-19T04:23:13.981Z"}
+{"level":"info","message":"✨ Server is running on port 5005","metadata":{},"timestamp":"2023-06-19T04:25:50.855Z"}
+{"level":"info","message":"🎉 MongoDB Connected  => ecommerce","metadata":{},"timestamp":"2023-06-19T04:25:52.038Z"}
+{"level":"info","message":"Connection with SMTP server ...","metadata":{},"timestamp":"2023-06-19T04:25:52.040Z"}
+{"level":"info","message":"SMTP Server Connected","metadata":{},"timestamp":"2023-06-19T04:25:52.045Z"}
+{"level":"info","message":"SMTP Connection verified","metadata":{},"timestamp":"2023-06-19T04:25:52.047Z"}
+{"level":"info","message":"undefined - Mail sent successfully!!","metadata":{},"timestamp":"2023-06-19T04:51:56.602Z"}
+{"level":"info","message":"undefined - [MailResponse]=250 Message queued as <76b5aba0-74ae-6515-1b27-465a9e0b3ea8@snproweb.com> [MessageID]=<76b5aba0-74ae-6515-1b27-465a9e0b3ea8@snproweb.com>","metadata":{},"timestamp":"2023-06-19T04:51:56.606Z"}
+{"level":"info","message":"✨ Server is running on port 5005","metadata":{},"timestamp":"2023-06-21T03:59:11.549Z"}
+{"level":"info","message":"🎉 MongoDB Connected  => ecommerce","metadata":{},"timestamp":"2023-06-21T03:59:12.952Z"}
+{"level":"info","message":"Connection with SMTP server ...","metadata":{},"timestamp":"2023-06-21T03:59:12.955Z"}
+{"level":"info","message":"SMTP Server Connected","metadata":{},"timestamp":"2023-06-21T03:59:12.967Z"}
+{"level":"info","message":"SMTP Connection verified","metadata":{},"timestamp":"2023-06-21T03:59:12.970Z"}

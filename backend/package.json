@@ -1,0 +1,47 @@
+{
+  "name": "APISPocC_ecommerce_backend",
+  "version": "1.0.0",
+  "description": "APISPocC ecommerce backend",
+  "main": "index.js",
+  "repository": "codecommit::us-east-2://APISPocC_ecommerce_backend",
+  "author": "suman-apisero <suman.p.manna@apisero.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development ts-node-dev --poll src/index.ts",
+    "start": "ts-node --transpile-only src/index.ts",
+    "dev:prod": "ts-node-dev --poll src/index.ts",
+    "seed": "cross-env NODE_ENV=development ts-node --transpile-only src/seed.ts"
+  },
+  "devDependencies": {
+    "@types/body-parser": "^1.19.2",
+    "@types/cors": "^2.8.13",
+    "@types/multer": "^1.4.7",
+    "@types/node": "^18.15.3",
+    "@types/pino": "^7.0.5",
+    "tsconfig-paths": "^4.1.2",
+    "typescript": "^5.0.2",
+    "yargs": "^17.7.1"
+  },
+  "dependencies": {
+    "@types/cookie-session": "^2.0.44",
+    "@types/express": "^4.17.17",
+    "body-parser": "^1.20.2",
+    "class-validator": "^0.14.0",
+    "cloudinary": "^1.36.2",
+    "cookie-session": "^2.0.0",
+    "cors": "^2.8.5",
+    "cross-env": "^7.0.3",
+    "dayjs": "^1.11.7",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-async-errors": "^3.1.1",
+    "express-async-handler": "^1.2.0",
+    "express-validator": "^6.15.0",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.2",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.9.1",
+    "ts-node-dev": "^2.0.0",
+    "winston": "^3.9.0"
+  }
+}

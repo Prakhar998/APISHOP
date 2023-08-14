@@ -1,0 +1,186 @@
+[
+  {
+    "name": "APPLE iPhone 14 (Starlight, 128 GB)",
+    "price": "609",
+    "description": "The iPhone 14 is Apple's latest flagship smartphone that sets the standard for the future of mobile technology. Powered by an advanced A16 Bionic chip, it delivers unparalleled performance for all your tasks, from gaming to creative work. The ProMotion Pro display with a 120Hz refresh rate offers smooth scrolling and responsiveness, while the advanced camera system with improved low-light capabilities and computational photography takes your photography skills to new heights. The iPhone 14 features enhanced biometric security, longer battery life, and 5G connectivity for lightning-fast speeds. With its sleek design, advanced features, and innovative technologies, the iPhone 14 is the pinnacle of iPhone excellence, redefining what's possible in a smartphone. Experience the future with the iPhone 14.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "cloudinary_id": "product-images/28.png",
+        "url": "http://res.cloudinary.com/dpjjomalj/image/upload/v1683193177/product-images/28.png.png",
+        "product": "64537a3864a05611b21d81f6",
+        "createdAt": "2023-05-04T09:39:37.909Z",
+        "updatedAt": "2023-05-04T09:39:37.909Z",
+        "__v": 0,
+        "public_id": "64537d599bda72601b68072b"
+      },
+      {
+        "cloudinary_id": "product-images/apisero_logo.png",
+        "url": "http://res.cloudinary.com/dpjjomalj/image/upload/v1683185375/product-images/apisero_logo.png.png",
+        "product": "64537a3864a05611b21d81f6",
+        "createdAt": "2023-05-04T09:40:23.499Z",
+        "updatedAt": "2023-05-04T09:40:23.499Z",
+        "__v": 0,
+        "public_id": "64537d879bda72601b68073d"
+      }
+    ],
+    "category": "64365334381a72eb385d757b",
+    "seller": "Amazon",
+    "stock": 50,
+    "numOfReviews": 32,
+    "reviews": [],
+    "createdBy": "6426cc5f0de093d92db87125"
+  },
+  {
+    "name": "DELL Vostro Core i3 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 11 Home)",
+    "price": "475.15",
+    "description": "The DELL Vostro Core i3 11th Gen is a powerful business laptop that offers reliable performance and productivity features. Powered by an 11th generation Intel Core i3 processor, it delivers fast and efficient performance for everyday computing tasks. The Vostro's sleek design and durable build make it ideal for professionals on the go. With its ample storage and memory options, it offers plenty of space for storing files and multitasking seamlessly. The Vostro also comes with a range of business-friendly features, such as advanced security options, a comfortable keyboard, and a high-definition display for crisp visuals. Whether you're working in the office or on the move, the DELL Vostro Core i3 11th Gen is designed to enhance your productivity and meet your business needs.",
+    "ratings": 3.65,
+    "images": [
+      {
+        "public_id": "product-images/laptop1_lls0z0",
+        "url": "https://res.cloudinary.com/dpjjomalj/image/upload/v1681271973/product-images/laptop1_lls0z0.jpg"
+      },
+      {
+        "public_id": "product-images/laptop2_ysjmbq",
+        "url": "https://res.cloudinary.com/dpjjomalj/image/upload/v1681271973/product-images/laptop2_ysjmbq.jpg"
+      }
+    ],
+    "category": "64365334381a72eb385d757f",
+    "seller": "Amazon",
+    "stock": 0,
+    "numOfReviews": 2,
+    "reviews": [],
+    "createdBy": "6426cc5f0de093d92db87125"
+  },
+  {
+    "name": "Realme 10 Pro 5G (Nebula Blue, 128 GB)",
+    "price": "243.72",
+    "description": "The Realme 10 Pro 5G is a cutting-edge smartphone that combines high-performance features and 5G connectivity for a premium mobile experience. Powered by a powerful Qualcomm Snapdragon processor, it delivers blazing-fast performance for smooth multitasking, gaming, and content streaming. The Pro 5G display offers stunning visuals with vibrant colors and sharp details, perfect for immersive entertainment. The advanced quad-camera system with high-resolution sensors and AI capabilities allows you to capture professional-quality photos and videos. With its sleek design, long battery life, and fast charging technology, the Realme 10 Pro 5G is built to keep up with your busy lifestyle. Stay connected with 5G speeds, capture stunning moments, and enjoy a flagship experience with the Realme 10 Pro 5G.",
+    "ratings": 3.5,
+    "images": [
+      {
+        "public_id": "product-images/realme5g_wtzzui",
+        "url": "https://res.cloudinary.com/dpjjomalj/image/upload/v1681271973/product-images/realme5g_wtzzui.jpg"
+      }
+    ],
+    "category": "64365334381a72eb385d757b",
+    "seller": "Amazon",
+    "stock": 10,
+    "numOfReviews": 12,
+    "reviews": [],
+    "createdBy": "6426cc5f0de093d92db87125"
+  },
+  {
+    "name": "Bose QuietComfort 35 II Wireless Bluetooth Headphones",
+    "price": "299.00 ",
+    "description": "What happens when you clear away the noisy distractions of the world? Concentration goes to the next level. You get deeper into your music, your work, or whatever you want to focus on. That’s the power of Bose QuietComfort 35 wireless headphones II. Put them on and get closer to what you’re most passionate about. And that’s just the beginning. QuietComfort 35 wireless headphones II are now enabled with Bose AR",
+    "ratings": 4.5,
+    "images": [
+      {
+        "public_id": "product-images/boat-headset_efdhlb",
+        "url": "https://res.cloudinary.com/dpjjomalj/image/upload/v1681271973/product-images/boat-headset_efdhlb.png"
+      }
+    ],
+    "category": "64365334381a72eb385d757c",
+    "seller": "Amazon",
+    "stock": 11,
+    "numOfReviews": 112,
+    "reviews": [],
+    "createdBy": "6426cc5f0de093d92db87125"
+  },
+  {
+    "name": "Boat AirPods with Charging Case (Wired)",
+    "price": "126.99 ",
+    "description": "AirPods with Charging Case: More than 24 hours listening time, up to 18 hours talk time; AirPods (single charge): Up to 5 hours listening time, up to 3 hours talk time or 15 minutes in the case equals up to 3 hours listening time or up to 2 hours talk time.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "public_id": "product-images/airdops_warwiy",
+        "url": "https://res.cloudinary.com/dpjjomalj/image/upload/v1681271972/product-images/airdops_warwiy.jpg"
+      },
+      {
+        "public_id": "product-images/airdops2_h2zlgt",
+        "url": "https://res.cloudinary.com/dpjjomalj/image/upload/v1681271972/product-images/airdops2_h2zlgt.jpg"
+      }
+    ],
+    "category": "64365334381a72eb385d757d",
+    "seller": "Amazon",
+    "stock": 122,
+    "numOfReviews": 2671,
+    "reviews": [],
+    "createdBy": "6426cc5f0de093d92db87125"
+  },
+  {
+    "name": "boAt Storm call 1.69 inch HD display with bluetooth calling",
+    "price": "27.99",
+    "description": "The boAt Storm Call is the perfect companion for your fitness transformation. Your Watch Storm Call is here to remove all obstructions that may come on your goal achieving path. The watch comes with Bluetooth calling and a Dialpad that saves up to 10 contacts, for you to stay connected 24x7. With its daily activity tracker and multiple sports modes, it will now be fun to track your journey towards health. Stay alert at all times with smart notifications from your phone with vibration alerts for calls, texts, sedentary reminders, alarms, & more! The wellness mode of the smartwatch monitors your heart rate, blood oxygen levels. And when you want to disconnect with the outside world, theres the DND feature on the watch to disable all notifications. Its find my phone feature will call your phone to easily locate your phone when you dont remember where you kept it.",
+    "ratings": 4.1,
+    "images": [
+      {
+        "public_id": "product-images/smart-watch_ymhxyc",
+        "url": "https://res.cloudinary.com/dpjjomalj/image/upload/v1681271973/product-images/smart-watch_ymhxyc.png"
+      }
+    ],
+    "category": "64365334381a72eb385d757e",
+    "seller": "Amazon",
+    "stock": 1123,
+    "numOfReviews": 6,
+    "reviews": [],
+    "createdBy": "6426cc5f0de093d92db87125"
+  },
+  {
+    "name": "Nikon D3500 W/ AF-P DX NIKKOR 18-55mm f/3.5-5.6G VR Black ",
+    "price": "496.95",
+    "description": "You don't need to be a photographer to know a great photo when you see one. And you don't need to be a photographer to take a great photo—you just need the D3500. It's as easy to use as a point-and-shoot, but it takes beautiful DSLR photos and videos that get noticed. It feels outstanding in your hands, sturdy and balanced with controls where you want them. It's compact, durable and versatile, ideal for travel. And it works seamlessly with compatible smartphones, making it easier than ever to share your great photos. Even if you've never picked up a DSLR camera, you can take beautiful pictures with D3500.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "product-images/nikon-camera_htr6ht",
+        "url": "https://res.cloudinary.com/dpjjomalj/image/upload/v1681290422/product-images/nikon-camera_htr6ht.png"
+      }
+    ],
+    "category": "643675457f0e8d8fda045f0f",
+    "seller": "Amazon",
+    "stock": 131,
+    "numOfReviews": 222,
+    "reviews": [],
+    "createdBy": "6426cc5f0de093d92db87125"
+  },
+  {
+    "name": "Apple MacBook Air (13-inch, 8GB RAM, 256GB SSD Storage)",
+    "price": "949.99",
+    "description": "Stunning 13.3-inch Retina display with True Tone technology, Backlit Magic Keyboard and Touch ID, Tenth-generation, Intel Core i3 processor, Intel Iris Plus Graphics, Fast SSD storage, 8GB of memory, Stereo speakers with wider stereo sound",
+    "ratings": 4.9,
+    "images": [
+      {
+        "public_id": "product-images/macbook_kavarc",
+        "url": "https://res.cloudinary.com/dpjjomalj/image/upload/v1681291071/product-images/macbook_kavarc.jpg"
+      }
+    ],
+    "category": "64365334381a72eb385d757f",
+    "seller": "Amazon",
+    "stock": 0,
+    "numOfReviews": 56,
+    "reviews": [],
+    "createdBy": "6426cc5f0de093d92db87125"
+  },
+  {
+    "name": "boAt Rockerz 103 Pro",
+    "price": "12.75",
+    "description": "Rock your jam with Rockerz 103 Pro. Obliterate your opponents as you become the undisputed master of the gaming world with BEAST™ Mode. Charge up with ASAP™ Charge that gets 10 hours of playtime with just 10 minutes of charge and ace your work calls with crystal clear voice using ENx™ Technology. Plug-in and rock all day.",
+    "ratings": 4.1,
+    "images": [
+      {
+        "public_id": "product-images/wireless-black_sdcgvw",
+        "url": "https://res.cloudinary.com/dpjjomalj/image/upload/v1681271974/product-images/wireless-black_sdcgvw.png"
+      }
+    ],
+    "category": "643678237f0e8d8fda045f14",
+    "seller": "Kauffman's Fruit Farm & Market",
+    "stock": 500,
+    "numOfReviews": 1,
+    "reviews": [],
+    "createdBy": "6426cc5f0de093d92db87125"
+  }
+]
